@@ -1,2 +1,2 @@
 # calculator
-First step to processor
+First step to the processor emulator
